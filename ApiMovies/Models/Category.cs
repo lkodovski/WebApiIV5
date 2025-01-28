@@ -2,6 +2,7 @@
 
 namespace ApiMovies.Models
 {
+    //Proba za commit
     public class Category
     {
         //Ovde se dodavaat svojstvata
